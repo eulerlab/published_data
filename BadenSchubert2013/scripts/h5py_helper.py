@@ -56,7 +56,7 @@ def __print(path, obj):
     nLine += 1
         
     
-def print_hfd5_directory(path):    
+def print_hdf5_directory(path):    
     """ Prints a simple directory of the file
     """
     global preLev, nLine, sPrev, sNew 
