@@ -9,8 +9,8 @@ For instructions, see jupyter notebooks in the respective publication folders.
    For data see:  
    Baden T*, Schubert T*, Chang L, Wei T, Zaichuk M, Wissinger B, Euler T (2014) Zenodo. [10.5281/zenodo.1204501](http://doi.org/10.5281/zenodo.1204501)
    
-* `Chapot_et_al_2017`
+* `Chapot_et_al_2017`  
   Chapot CA, Behrens C, Rogerson LE, Baden T, Pop S, Berens P, Euler T#, Schubert T# (2017) Local signals in mouse horizontal
-  cell dendrites. Curr Biol [doi:10.1016/j.cub.2017.10.050]( https://doi.org/10.1016/j.cub.2017.10.050).
+  cell dendrites. Curr Biol [doi:10.1016/j.cub.2017.10.050]( https://doi.org/10.1016/j.cub.2017.10.050).  
   #corresponding authors
   
